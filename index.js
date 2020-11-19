@@ -12,11 +12,11 @@ const menu = require("./lib/menu.js");
 const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
-const BotName = 'Besties Clanz'; // Nama Bot Whatsapp
-const instagramlu = 'https://instagram.com/elementary_pancake'; // Nama Instagramlu cok
-const whatsapplu = '0812-1416-5112'; // Nomor whatsapplu cok
+const BotName = 'WHATSAPP Clanz'; // Nama Bot Whatsapp
+const instagramlu = 'https://instagram.com/Arfdnii_'; // Nama Instagramlu cok
+const whatsapplu = '0858-7707-5481'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
-const grupch1 = 'https://chat.whatsapp.com/EfShWoVBJKC1Vn9AXEpk6b'; // OFFICIAL GRUP LU 1
+const grupch1 = '-'; // OFFICIAL GRUP LU 1
 const grupch2 = '--'
 //
 const
